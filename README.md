@@ -1,4 +1,4 @@
-# 👩‍💻 Paramita Ghosh — React Projects
+## ⚛️ React Projects
 
 Welcome to my **React Projects** repository!  
 This folder contains all my **React.js applications**, built to explore frontend development concepts, UI design, and modern web technologies.
@@ -8,6 +8,8 @@ This repository will continue to grow as I add new projects over time.
 
 ---
 
+## 🧑‍💻 Author
+Paramita Ghosh
 
 ---
 
